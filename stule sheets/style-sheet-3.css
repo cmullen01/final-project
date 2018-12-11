@@ -1,0 +1,106 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	background-color: #eeeeee;
+}
+h1, h2, h3 {
+	font-family: 'Wire One', sans-serif;
+}
+a {
+	color: #25333a;
+}
+a:hover {
+	color: #409aa9;
+	text-decoration: none;
+}
+.btn-primary {
+	color: #fff;
+	background-color: #25333a;
+	border-color: #25333a;
+	font-weight: 100;
+}
+.btn-primary:hover {
+	background-color: #409aa9;
+	border-color: #409aa9;
+}
+.unsplash-header {
+	background-color: #25333a;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	margin: 0;
+	color: #ffffff;
+}
+.unsplash-header h1 small {
+	font-size: .35em;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+}
+.unsplash-header a {
+	color: #ffffff;
+	text-decoration: none;
+}
+.unsplash-header a:hover {
+	color: #ffffff;
+	text-decoration: none;
+}
+.unsplash-footer {
+	border-top: solid 5px #409aa9;
+	background-color: #25333a;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	margin: 0;
+	margin-top: 2em;
+	color: #ffffff;
+}
+.unsplash-footer a {
+	color: #ffffff;
+}
+.unsplash-home-page-intro {
+	background-color: #409aa9;
+	margin:3em 0;
+	color: #ffffff;
+}
+.unsplash-navigation {
+	background-color: #409aa9;
+	padding-top: .5em;
+	padding-bottom: .5em;
+	margin: 0;
+	margin-bottom: 2em;
+}
+.unsplash-navigation .breadcrumb {
+	background-color: #409aa9;
+	margin: 0;
+	color: #ffffff;
+}
+.unsplash-navigation .breadcrumb li, .unsplash-navigation .breadcrumb a, .unsplash-navigation .breadcrumb a:hover {
+	color: #ffffff;
+	text-decoration: none;
+}
+.unsplash-navigation .breadcrumb li.active {
+	color: #25333a;
+	font-weight: 400;
+}
+.breadcrumb-item+.breadcrumb-item::before {
+	color: #ffffff;
+}
+.modal h1 {
+	margin:0;
+}
+dt {
+	font-family: 'Wire One', sans-serif;
+	font-size: 1.5em;
+}
+
+dd {
+	margin: 0;
+	padding: 0;
+	line-height: 1.5em;
+}
+dd small {
+	font-size: .8em;
+	font-weight: 100;
+}
+dd strong {
+	font-size: 2em;
+	font-weight: 100;
+}
