@@ -19,7 +19,7 @@
 		 <h1>Brunch in NYC</h1>
 <nav>
     <ol class="breadcrumb">
-      <li class="breadcrumb-item active"><a href="file:///Macintosh HD/Users/communication/Desktop/index.html">Home</a></li>
+      <li class="breadcrumb-item active"><a href="../index.html">Home</a></li>
       <!-- TemplateBeginEditable name="breadcrumb-trail" -->
 		<li class="breadcrumb-item active">NoMo Kitchen</li>
       <!-- TemplateEndEditable -->
