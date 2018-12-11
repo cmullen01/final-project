@@ -1,0 +1,30 @@
+h1 { font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
+p {
+  border: 2px #A7F2EF;
+  border-radius: 5px;
+}
+p.normal {
+  border: 2px #83D1FF;
+}
+
+p.round1 {
+  border: 2px #83D1FF;
+  border-radius: 5px;
+}
+
+p.round2 {
+  border: 2px #83D1FF;
+  border-radius: 8px;
+}
+
+p.round3 {
+  border: 2px #83D1FF;
+  border-radius: 12px;
+	
+p {
+  border-top-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;
+}
+	<h1 style="border: 2px solid Violet;">Brunch in New York City</h1>
